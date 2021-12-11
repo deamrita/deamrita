@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrita De</h1>
 <h3 align="center">Living a *sample* life</h3>
 
-- 🌱 I’m currently learning **Python, R, SPSS, SQL**
+- 🌱 I’m currently learning **Python, R, SQL**
 
 - 👨‍💻 All of my projects are available at [https://deamrita.github.io/](https://deamrita.github.io/)
 
