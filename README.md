@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deamrita.github.io/](https://deamrita.github.io/)
 
-- 💬 Ask me about **Python, R, SQL**
+- 💬 Ask me about **Python, Tableau, SQL**
 
 - 📫 How to reach me **deamrita2015@gmail.com**
 
